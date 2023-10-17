@@ -2,7 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/CommonPrograms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ProblemsOnArray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ProblemsOnRecursion" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/dsa" vcs="Git" />
   </component>
 </project>
